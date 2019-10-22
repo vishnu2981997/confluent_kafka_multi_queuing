@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "topic": "test_5",
+            "config": {
+                "bootstrap.servers": "localhost:9092",
+                "group.id": "test",
+                "default.topic.config": {
+                    "auto.offset.reset": "smallest"
+                }
+            },
+            "partition": "0"
+        },
+        {
+            "topic": "test_6",
+            "config": {
+                "bootstrap.servers": "localhost:9092",
+                "group.id": "test",
+                "default.topic.config": {
+                    "auto.offset.reset": "smallest"
+                }
+            },
+            "partition": "0"
+        }
+    ]
+}
