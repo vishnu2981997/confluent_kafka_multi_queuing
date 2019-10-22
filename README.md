@@ -10,7 +10,7 @@ Implementation of multi queuing using confluent kafka
 
 ### Procedure
 
-Proceed with these steps once all the requirements are setup in ur system
+Proceed with these steps once all the requirements are setup in ur system and u r gonna use docker
 1. clone the repo 
 2. open it a cmd in the specific location
 3. pip install -r requirements.txt
