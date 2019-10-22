@@ -6,6 +6,7 @@ Implementation of multi queuing using confluent kafka
 
 1. Docker (or u can have ur kafka or zookeeper running in ur local)
 2. python 3.6 or >
+3. java
 
 ### Procedure
 
